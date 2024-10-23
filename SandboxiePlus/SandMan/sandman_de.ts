@@ -2046,7 +2046,7 @@ Bitte wählen Sie einen Ordner, der diese Datei enthält.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="341"/>
-        <source>For security reasons it it not permitted to create entirely wildcard BreakoutDocument presets.</source>
+        <source>For security reasons it is not permitted to create entirely wildcard BreakoutDocument presets.</source>
         <translation>Aus Sicherheitsgründen ist es nicht erlaubt, Breakout Dokument Vorgaben, die gänzlich aus einer Wildcard bestehen, zu erstellen.</translation>
     </message>
     <message>
@@ -8019,8 +8019,7 @@ Teilweise angehakt: Dem neu erstellten sandgeboxten Token werden keine lokalen G
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2380"/>
         <source>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SECURITY ADVISORY&lt;/font&gt;:&lt;/b&gt; Using &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; and/or &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in combination with Open[File/Pipe]Path directives can compromise security, as can the use of &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; allowing any * or insecure (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc...) extensions. Please review the security section for each option in the documentation before use.</source>
-        <oldsource>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SECURITY ADVISORY&lt;/font&gt;:&lt;/b&gt; Using &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; and/or &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in combination with Open[File/Pipe]Path directives can compromise security, as can the use of &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; allowing any * or insecure (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc…) extensions. Please review the security section for each option in the documentation before use.</oldsource>
-        <translation type="unfinished">&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SICHERHEITSHINWEIS&lt;/font&gt;:&lt;/b&gt; Die Verwendung von &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; und/oder &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in Kombination mit Open[File/Pipe]Path-Anweisungen kann die Sicherheit beeinträchtigen, ebenso wie die Verwendung von &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; mit dem Zulassen beliebiger * oder unsicherer (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc…) Dateiendungen. Bitte lesen Sie die Sicherheitshinweise für jede Option in der Dokumentation, bevor Sie diese verwenden.</translation>
+        <translation>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SICHERHEITSHINWEIS&lt;/font&gt;:&lt;/b&gt; Die Verwendung von &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; und/oder &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in Kombination mit Open[File/Pipe]Path-Anweisungen kann die Sicherheit beeinträchtigen, ebenso wie die Verwendung von &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; mit dem Zulassen beliebiger * oder unsicherer (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc...) Dateiendungen. Bitte lesen Sie die Sicherheitshinweise für jede Option in der Dokumentation, bevor Sie diese verwenden.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2410"/>
