@@ -2635,7 +2635,7 @@ Note: The update check is often behind the latest GitHub release to ensure that 
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="833"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1005"/>
@@ -4437,7 +4437,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="1508"/>
         <source>Boxes: %1 (%2 active)  |  Processes: %3  |  Memory: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>박스: %1 (%2 활성)  |  프로세스: %3  |  메모리: %4</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1699"/>
@@ -5737,17 +5737,17 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Models/SbieModel.cpp" line="840"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="841"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>메모리</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="842"/>
         <source>Private Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>전용 바이트</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="843"/>
@@ -6445,25 +6445,26 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Views/SbieView.cpp" line="638"/>
         <source>    CPU: %1  |  Memory: %2  |  Private Bytes: %3
 </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>    CPU: %1  |  메모리: %2  |  전용 바이트: %3</translatorcomment>
+        <translation>    CPU: %1  |  Memory: %2  |  Private Bytes: %3</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="641"/>
         <source>    Sandbox: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    샌드박스: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="643"/>
         <source>    Image: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    이미지: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="646"/>
         <source>    Start Time: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    시작 시간: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1113"/>
@@ -10170,17 +10171,17 @@ This is done to prevent rogue processes inside the sandbox from creating a renam
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1835"/>
         <source>Total CPU Rate Limit (%):</source>
-        <translation type="unfinished"></translation>
+        <translation>총 CPU 사용률 제한 (%):</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1851"/>
         <source>Leave it blank to disable the setting (1-100)</source>
-        <translation type="unfinished"></translation>
+        <translation>이 설정을 비활성화하려면 빈칸으로 두세요 (1-100)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1861"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2051"/>
