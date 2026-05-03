@@ -2573,7 +2573,8 @@ Remarque : La recherche de mise à jour est souvent en retard par rapport à la 
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="833"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translatorcomment>%</translatorcomment>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1005"/>
@@ -4042,7 +4043,7 @@ Contrairement au canal des Aperçus, cela n&apos;inclut pas les modifications no
     <message>
         <location filename="SandMan.cpp" line="1508"/>
         <source>Boxes: %1 (%2 active)  |  Processes: %3  |  Memory: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Bacs : %1 (Actifs : %2)  |  Processus : %3  |  Mémoire : %4</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2023"/>
@@ -5857,17 +5858,17 @@ Remarque : La recherche de mise à jour est souvent en retard par rapport à la 
     <message>
         <location filename="Models/SbieModel.cpp" line="840"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Processeur</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="841"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoire</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="842"/>
         <source>Private Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets privés</translation>
     </message>
     <message>
         <source>Start Time</source>
@@ -6506,25 +6507,29 @@ Remarque : La recherche de mise à jour est souvent en retard par rapport à la 
         <location filename="Views/SbieView.cpp" line="638"/>
         <source>    CPU: %1  |  Memory: %2  |  Private Bytes: %3
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    Processeur : %1  |  Mémoire : %2  |  Octets privés : %3
+</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="641"/>
         <source>    Sandbox: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    Bac à sable : %1
+</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="643"/>
         <source>    Image: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    Image : %1
+</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="646"/>
         <source>    Start Time: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    Heure de démarrage : %1
+</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="940"/>
@@ -8613,7 +8618,7 @@ Si vous êtes déjà « Great Supporter » sur Patreon, Sandboxie peut vérifier
         <location filename="Views/TraceView.cpp" line="288"/>
         <location filename="Views/TraceView.cpp" line="297"/>
         <location filename="Views/TraceView.cpp" line="571"/>
-        <location filename="Views/TraceView.cpp" line="693"/>
+        <location filename="Views/TraceView.cpp" line="687"/>
         <source>[All]</source>
         <translation>[Tous]</translation>
     </message>
@@ -8683,17 +8688,17 @@ Si vous êtes déjà « Great Supporter » sur Patreon, Sandboxie peut vérifier
         <translation>Pour utiliser la fonction de trace d&apos;appels, DbgHelp.dll et SymSrv.dll sont nécessaires ; voulez-vous les télécharger et les installer ?</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="736"/>
+        <location filename="Views/TraceView.cpp" line="730"/>
         <source>Save trace log to file</source>
         <translation>Enregistrer le journal dans un fichier</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="742"/>
+        <location filename="Views/TraceView.cpp" line="736"/>
         <source>Failed to open log file for writing</source>
         <translation>Echec de l&apos;ouverture du fichier de journal en écriture</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="762"/>
+        <location filename="Views/TraceView.cpp" line="756"/>
         <source>Saving TraceLog...</source>
         <translation>Enregistrement du journal de traçage...</translation>
     </message>
@@ -8706,12 +8711,12 @@ Si vous êtes déjà « Great Supporter » sur Patreon, Sandboxie peut vérifier
         <translation type="vanished">Filtrer uniquement le bac sélectionné</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="646"/>
+        <location filename="Views/TraceView.cpp" line="640"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Views/TraceView.cpp" line="659"/>
+        <location filename="Views/TraceView.cpp" line="653"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
@@ -8719,7 +8724,7 @@ Si vous êtes déjà « Great Supporter » sur Patreon, Sandboxie peut vérifier
 <context>
     <name>CTraceWindow</name>
     <message>
-        <location filename="Views/TraceView.cpp" line="830"/>
+        <location filename="Views/TraceView.cpp" line="824"/>
         <source>Sandboxie-Plus - Trace Monitor</source>
         <translation>Sandboxie-Plus - Moniteur de traçage</translation>
     </message>
@@ -8920,7 +8925,7 @@ Idéal s&apos;il y a un grand nombre de petits fichiers, cela rendra l&apos;arch
     <message>
         <location filename="Forms/OptionsWindow.ui" line="32"/>
         <source>SandboxiePlus Options</source>
-        <translation>Options de SandboxiePlus</translation>
+        <translation>Options de Sandboxie Plus</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="52"/>
@@ -9746,17 +9751,17 @@ Si des processus directeurs sont définis, tous les autres sont traités comme d
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1835"/>
         <source>Total CPU Rate Limit (%):</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de limite d&apos;utilisation du processeur (%) :</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1851"/>
         <source>Leave it blank to disable the setting (1-100)</source>
-        <translation type="unfinished"></translation>
+        <translation>Laisser vide pour désactiver ce paramètre (1-100)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1861"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2051"/>
@@ -9882,7 +9887,7 @@ Pour définir un processus, utiliser « $:programme.exe » comme chemin.</transl
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4548"/>
         <source>Use heuristics to identify Electron/Chromium based processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la méthode heuristique pour identifier les processus basés sur Electron/Chromium</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="6145"/>
